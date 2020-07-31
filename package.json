@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "ghbuild": "ng build --prod --output-path docs --base-href=“https://martytheparty.github.io/inmoment-ten/"
+    "ghbuild": "ng build --prod --output-path docs --base-href=https://martytheparty.github.io/inmoment-ten/"
   },
   "private": true,
   "dependencies": {
